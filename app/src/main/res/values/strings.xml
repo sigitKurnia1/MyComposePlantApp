@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyComposePlant</string>
+    <string name="search_plant">Search plant</string>
+    <string name="email">sigitkurniawanmtsn@gmail.com</string>
+    <string name="username">Sigit Kurniawan</string>
+    <string name="about_page">About Page</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="go_back">Back</string>
+    <string name="title_detail">Plant Detail</string>
+    <string name="plant_image">Plant Image</string>
+    <string name="home_page">Home Page</string>
+</resources>
